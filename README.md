@@ -11,5 +11,7 @@ git commit
 git push origin "branch"
 git checkout -b "branch name"
 git checkout "branch name"
-MAARRARSsSDSDSDSD
-Change MAIN
+git reset
+git reset HEAD~1
+git log
+git reset --hard
